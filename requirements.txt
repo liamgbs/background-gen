@@ -1,0 +1,7 @@
+Pillow==5.3.0
+shapely==1.6.4.post1
+
+# Shapely is needed too but the pip version doesn't install properly on windows
+# Get it from here: https://www.lfd.uci.edu/~gohlke/pythonlibs/#shapely
+
+# install using command python -m pip install <shapelyfile.whl>
